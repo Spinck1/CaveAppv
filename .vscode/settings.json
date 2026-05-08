@@ -1,0 +1,10 @@
+{
+  "files.exclude": {
+    "build": true,
+    ".dart_tool": true
+  },
+  "dart.analysisExcludedFolders": [
+    "build",
+    ".dart_tool"
+  ]
+}
